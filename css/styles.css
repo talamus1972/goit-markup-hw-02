@@ -2,6 +2,13 @@
     background-color: #FFF;
 }
 
+.page-header ul a {
+    color: #2E2F42;
+}
+
+.address-list ul a {
+    color: #434455;
+}
 
 /* Name */
 .section-name {
