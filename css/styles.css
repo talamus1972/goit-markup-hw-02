@@ -1,9 +1,28 @@
+header {
+    background-color: #FFF;
+}
+
+
 /* Name */
 .section-1 {
     background-color: #2E2F42;
+    text-align: center;
 }
 
 h1 {
     color: #FFF;
-    text-align: center;
+
+}
+
+.section-2 {
+    background-color: #FFF;
+}
+
+.section-3 {
+    background-color: #F4F4FD;
+}
+
+footer {
+    background-color: #2E2F42;
+    color: #F4F4FD;
 }
