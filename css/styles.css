@@ -33,18 +33,21 @@ body {
     font-family: "Roboto", "Realway";
 }
 
-h1 {
+/* Title h1*/
+.page-title {
     color: #FFF;
     font-size: 56px;
 }
 
-h2 {
+/* section-title h2 */
+.section-title {
     color: #2E2F42;
     font-size: 36px;
     font-weight: 700;
 }
 
-h3 {
+/* title h3 */
+.title {
     color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
