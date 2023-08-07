@@ -75,10 +75,19 @@ ul {
     letter-spacing: 1.12px;
 }
 
-.button:active {
-    color: #404BBF;
+.button {
+    background-color: #4D5AE5;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
 }
 
+.button:hover,
+.button:focus {
+    background-color: #404BBF;
+}
 
 /* Title h1*/
 .page-title {
@@ -86,7 +95,7 @@ ul {
     font-size: 56px;
     font-weight: 700;
     letter-spacing: 1.12px;
-    line-height: 1.071;
+    line-height: 1.07;
 }
 
 /* section-title h2 */
