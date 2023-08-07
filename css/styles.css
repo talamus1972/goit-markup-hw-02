@@ -5,7 +5,7 @@
 }
 
 .webstudio {
-    font-family: "Realway", sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     text-decoration: none;
     letter-spacing: 0.03em;
@@ -107,6 +107,12 @@ ul {
     line-height: 1.2;
 }
 
+.section-title-p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
 
 
 /* title h3 */
@@ -116,6 +122,20 @@ ul {
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
+
+}
+
+.team-block {
+    background-color: #F4F4FD
+}
+
+.section-title-team {
+    text-align: center;
+    line-height: 1.11;
+    font-size: 36px;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
 
 }
 
