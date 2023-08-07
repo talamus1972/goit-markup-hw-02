@@ -1,14 +1,27 @@
 /* Header */
-
-.page-header {
-    background-color: #FFF;
+.webstudio {
+    font-family: "Realway";
 }
 
 .page-header ul a {
+
     color: #2E2F42;
+    font-weight: 500;
+
 }
 
+.address-list ul a {
+    font-weight: 400;
+    color: #434455;
+}
 
+.page-header .link:hover {
+    color: #404BBF;
+}
+
+.address-list .link:hover {
+    color: #404BBF;
+}
 
 /* Body */
 
@@ -16,6 +29,13 @@ body {
     color: #434455;
     font-size: 16px;
     font-weight: 400;
+    background-color: #FFF;
+    font-family: "Roboto", "Realway";
+}
+
+h1 {
+    color: #FFF;
+    font-size: 56px;
 }
 
 h2 {
@@ -33,25 +53,18 @@ h3 {
 /* Name */
 .section-name {
     background-color: #2E2F42;
-    text-align: center;
-}
-
-h1 {
-    color: #FFF;
 
 }
 
-.feature {
-    background-color: #FFF;
+.section-name .link:hover {
+    color: #404BBF;
 }
 
-.team-block {
-    background-color: #F4F4FD;
+.order:active {
+    color: #404BBF;
 }
 
-.portfolio {
-    background-color: #FFF;
-}
+
 
 .page-footer {
     background-color: #2E2F42;
