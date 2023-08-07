@@ -126,7 +126,7 @@ ul {
 }
 
 /* Section 3 */
-.team-block-ul {
+.team-block {
     background-color: #F4F4FD;
 }
 
@@ -138,6 +138,10 @@ ul {
     text-transform: capitalize;
     color: #2e2f42;
 
+}
+
+.team-block-ul {
+    background-color: #F4F4FD;
 }
 
 /* Secton 4 */
