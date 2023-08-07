@@ -1,6 +1,7 @@
 /* Header */
 .webstudio {
     font-family: "Realway";
+    font-weight: 700;
 }
 
 .page-header ul a {
@@ -33,10 +34,23 @@ body {
     font-family: "Roboto", "Realway";
 }
 
+/*  Main Title */
+
+.section-main-title {
+    background-color: #2E2F42;
+
+}
+
+.order:active {
+    color: #404BBF;
+}
+
+
 /* Title h1*/
 .page-title {
     color: #FFF;
     font-size: 56px;
+    font-weight: 700;
 }
 
 /* section-title h2 */
@@ -52,22 +66,6 @@ body {
     font-size: 20px;
     font-weight: 500;
 }
-
-/* Name */
-.section-name {
-    background-color: #2E2F42;
-
-}
-
-.section-name .link:hover {
-    color: #404BBF;
-}
-
-.order:active {
-    color: #404BBF;
-}
-
-
 
 .page-footer {
     background-color: #2E2F42;
