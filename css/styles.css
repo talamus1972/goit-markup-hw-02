@@ -2,25 +2,34 @@
 .webstudio {
     font-family: "Realway";
     font-weight: 700;
+    text-decoration: none;
+    letter-spacing: 0.54px;
 }
 
-.page-header ul a {
+.page-header .link {
 
     color: #2E2F42;
     font-weight: 500;
+    text-decoration: none;
+
 
 }
 
-.address-list ul a {
+.address-list .link {
     font-weight: 400;
     color: #434455;
+    text-decoration: none;
+    font-style: normal;
 }
 
-.page-header .link:hover {
+.page-header .link:hover,
+.page-header .link:focus {
     color: #404BBF;
+    text-decoration: underline;
 }
 
-.address-list .link:hover {
+.address-list .link:hover,
+.address-list .link:focus {
     color: #404BBF;
 }
 
@@ -31,7 +40,7 @@ body {
     font-size: 16px;
     font-weight: 400;
     background-color: #FFF;
-    font-family: "Roboto", "Realway";
+    font-family: "Roboto", "Raleway", sans-serif;
     font-style: normal;
 }
 
@@ -39,6 +48,7 @@ body {
 
 .section-main-title {
     background-color: #2E2F42;
+    text-align: center;
 
 }
 
@@ -68,7 +78,12 @@ body {
     font-weight: 500;
 }
 
+.feature {
+    line-height: 1.5;
+}
+
 .page-footer {
     background-color: #2E2F42;
     color: #F4F4FD;
+    line-height: 1.5;
 }
