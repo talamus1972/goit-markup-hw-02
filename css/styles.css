@@ -101,19 +101,22 @@ ul {
 /* section-title h2 */
 .section-title {
     color: #2E2F42;
-    font-size: 36px;
-    font-weight: 700;
-    letter-spacing: 0.72px;
-    line-height: 1.111;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    line-height: 1.2;
 }
+
+
 
 /* title h3 */
 .title {
     color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
-    letter-spacing: 0.4px;
     line-height: 1.2;
+    letter-spacing: 0.02em;
+
 }
 
 .page-footer {
