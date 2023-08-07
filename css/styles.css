@@ -125,8 +125,9 @@ ul {
 
 }
 
-.team-block {
-    background-color: #F4F4FD
+/* Section 3 */
+.team-block-ul {
+    background-color: #F4F4FD;
 }
 
 .section-title-team {
@@ -137,6 +138,11 @@ ul {
     text-transform: capitalize;
     color: #2e2f42;
 
+}
+
+/* Secton 4 */
+.portfolio-ul {
+    background-color: #F4F4FD;
 }
 
 .page-footer {
