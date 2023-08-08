@@ -29,18 +29,19 @@
 .header .link:hover,
 .header .link:focus {
     color: #404BBF;
-    text-decoration: underline;
-}
 
-.address-list {
-    font-style: normal;
+
+    .address-list {
+        font-style: normal;
+
+    }
 }
 
 .address-list .link {
     font-weight: 400;
     color: #434455;
     font-style: normal;
-
+    text-decoration: none;
 }
 
 .address-list .link:hover,
@@ -102,7 +103,7 @@ ul {
 .section-title {
     color: #2E2F42;
     font-size: 20px;
-    font-weight: 500;
+    font-weight: 700;
     letter-spacing: 0.02em;
     line-height: 1.2;
 }
@@ -146,7 +147,7 @@ ul {
 
 /* Secton 4 */
 .portfolio-ul {
-    background-color: #F4F4FD;
+    background-color: #FFF;
 }
 
 /* footer */
